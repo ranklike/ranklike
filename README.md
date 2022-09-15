@@ -42,19 +42,19 @@
 <br><br><br><br>
 <br><br><br><br>
 
+<h3>Unsere SEO-Leistungen</h3>
+
+
 <div style="display:flex;">
-<img align="left" src="./Icons/ranklike-seo-hamburg.png" width=20px style="margin-right:20px">
+<img align="left" src="./Icons/ranklike-seo-hamburg.png" width=60px style="margin-right:60px">
 <h4>SEO Hamburg</h4></div>
 Deine <a href="https://ranklike.de/">SEO Hamburg Agentur </a>die für Deine Website mehr Traffic generiert.<br><br>
 
-
-<h3>Tools die wir nutzen</h3>
-
 <div style="display:flex;">
-<img align="left" src="./Icons/ranklike-suchmaschinenoptimierung.png" width=20px style="margin-right:20px">
+<img align="left" src="./Icons/ranklike-suchmaschinenoptimierung.png" width=60px style="margin-right:60px">
 <h4 style="display: inline;">Suchmaschinenoptimierung</h4></div>
 <a href="https://ranklike.de/local-seo/ ">Effektive Suchmaschinenoptimierung</a> verbessert nachhaltig die Position
-Deiner Website im Internet. Entdecke alle unsere SEO-Leistungen.<br><br>
+Deiner Website im Internet.<br><br>
 
 <div style="display:flex;">
 <img align="left" src="./Icons/ranklike-seo-experte.png" width=60px style="margin-right:60px">
